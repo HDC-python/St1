@@ -148,24 +148,27 @@ with tab2:
     # Données pour les projets
     projets = [
         {
-            "titre": "Projets stabilités",
+            "titre": "Projets stabilité",
             "photos": [
-                {"path": "STR1.jpg", "description": "Complexe scolaire Pablo Picasso (France): En cours."},
-                {"path": "STR2.jpg", "description": "Chateau de Monceau sur Sambre : Diagnostic sanitaire [nuage de points, analyse stabilité, mesures conservatoires]."},
-                {"path": "STR3.jpg", "description": "Chateau de Monceau sur Sambre : Diagnostic sanitaire [nuage de points, analyse stabilité, mesures conservatoires]."},
-                {"path": "STR4.jpg", "description": "Dockworld WALIBI: Structures sur pilotis, conception et calcul des assemblages."},
-                {"path": "STR5.jpg", "description": "Maisons unifamiliales: Sections, assemblages, dessin."}
+                {"path": "STR1.jpg", "description": "Complexe scolaire Pablo Picasso (France): en cours."},
+                {"path": "STR2.jpg", "description": "Château de Monceau sur Sambre : diagnostic sanitaire [nuage de points, analyse stabilité, mesures conservatoires]."},
+                {"path": "STR3.jpg", "description": "Château de Monceau sur Sambre : diagnostic sanitaire [nuage de points, analyse stabilité, mesures conservatoires]."},
+                {"path": "STR4.jpg", "description": "Dockworld WALIBI: structures sur pilotis, conception et calcul des assemblages."},
+                {"path": "STR5.jpg", "description": "Maisons unifamiliales: sections, assemblages, dessin."}
             ],
             "description": "En poste comme ingénieur stabilité chez CAMBIUM, voici quelques projets réalisé ou en cours."
         },
         {
-            "titre": "Projets personnels de recherche",
+            "titre": "Projets personnels",
             "photos": [
-                {"path": "Perso1.jpg", "description": "Station de méthanisation: conception pratique avec etude des phénomènes et calcul de rendement."},
+                {"path": "Perso1.jpg", "description": "Station de méthanisation: conception pratique avec étude des phénomènes et calcul de rendement."},
                 {"path": "Perso2.jpg", "description": "Conception paramétrique pour structure réciproque en bois rond: création de gabarits pour tronçonneuses."},
-                {"path": "Perso3.jpg", "description": "Exposition -Le bois dans la construction d'aujourd'hui et de demain-: L'exposition explique certains conceptes  élémentaires et puis pose des questions sans réponses pour annimer des discussions chez les visiteurs."},
+                {"path": "Perso3.jpg", "description": "Exposition -Le bois dans la construction d'aujourd'hui et de demain-: L'exposition explique certains conceptes  élémentaires et puis pose des questions sans réponses pour animer des discussions chez les visiteurs."},
+                {"path": "Cours1.jpg", "description": "Cours de calcul des structures bois :développement de matériel pédagogique et enseignement."},
+                {"path": "Cours2.jpg", "description": "Cours de trait de chrapente : développement de matériel pédagogique et enseignement."},
                 {"path": "Perso4.jpg", "description": "Aide à la conception et calcul de dimensionnement pour entreprise de charpente."},
                 {"path": "Perso5.jpg", "description": "Aide à la conception et calcul de dimensionnement pour entreprise de charpente."}
+                
             ],
             "description": "Les projets suivant ont été mennée en complément de mes études."
         },
@@ -173,8 +176,8 @@ with tab2:
             "titre": "Projets scolaires",
             "photos": [
                 {"path": "UCL1.jpg", "description": "Cours à options : sylviculture et anatomies du bois (+ architecture avec le bois: non illustré)"},
-                {"path": "UCL2.jpg", "description": "Approche créative en architecture : à la différence de mes camarades j'ai toujours apprécier amenner un quelque chose en plus que le dessins pour concevoir des projets d'architectures. Exemple : maquette de forme-finding"},
-                {"path": "UCL3.jpg", "description": "Construction d'un Elliodome pour favoriser la compréhention des ombres et offrire un processus de conception architectural intuitif et complément d'analyse avec Ladybug (Grasshopper)"},
+                {"path": "UCL2.jpg", "description": "Approche créative en architecture : j'ai toujours apprécier amenner un quelque chose en plus que le dessins pour concevoir des projets d'architectures. Exemple : maquette de forme-finding"},
+                {"path": "UCL3.jpg", "description": "Construction d'un Elliodome pour favoriser la compréhension des ombres et offrire un processus de conception architectural intuitif et complément d'analyse avec Ladybug (Grasshopper)"},
                 {"path": "UCL4.jpg", "description": "Mémoire: disponible sur demande"},
                 {"path": "UCL5.jpg", "description": "Aménagement d'un camion en habitation pour commencer nos études en famille, permettant de vivre à moindre coût."}
             ],
@@ -187,7 +190,7 @@ with tab2:
                 {"path": "Construction1.jpg", "description": "Gestion de chantier et chef d'équipe pour des projets d'extensions ou de maisons unifamiliales."},
                 {"path": "Construction2.jpg", "description": "Réalisation d'une cintreuse, escalier et mains courantes."}
             ],
-            "description": "Expériences de terrains."
+            "description": "Expériences de terrain."
         }
     ]
 
@@ -240,7 +243,7 @@ with tab3:
     TitreP_texte = TitreP[langue]
 
     # Afficher le sous-titre en jaune ocre
-    st.markdown(f'<p style="color:black; font-size: 35px; ">{TitreP_texte}</p>', unsafe_allow_html=True)#font-weight: bold;
+    st.markdown(f'<p style="color:#666666; font-size: 35px; ">{TitreP_texte}</p>', unsafe_allow_html=True)#font-weight: bold;
     #st.markdown(f'<p style="color:#D4A017;">{TitreP_texte}</p>', unsafe_allow_html=True)    
     st.markdown(f'<p style="color:#D4A017;">{sous_titre_texte}</p>', unsafe_allow_html=True)
     st.markdown(f'<p style="text-align: center; font-weight: bold; color: #D4A017;">{Question_texte}</p>', unsafe_allow_html=True)
