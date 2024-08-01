@@ -150,38 +150,38 @@ with tab2:
         {
             "titre": "Projets stabilité",
             "photos": [
-                {"path": "STR1.jpg", "description": "Complexe scolaire Pablo Picasso (France): en cours."},
+                {"path": "STR1.jpg", "description": "Complexe scolaire Pablo Picasso (France) : en cours."},
                 {"path": "STR2.jpg", "description": "Château de Monceau sur Sambre : diagnostic sanitaire [nuage de points, analyse stabilité, mesures conservatoires]."},
                 {"path": "STR3.jpg", "description": "Château de Monceau sur Sambre : diagnostic sanitaire [nuage de points, analyse stabilité, mesures conservatoires]."},
-                {"path": "STR4.jpg", "description": "Dockworld WALIBI: structures sur pilotis, conception et calcul des assemblages."},
-                {"path": "STR5.jpg", "description": "Maisons unifamiliales: sections, assemblages, dessin."}
+                {"path": "STR4.jpg", "description": "Dockworld Walibi : structures sur pilotis, conception et calcul des assemblages."},
+                {"path": "STR5.jpg", "description": "Maisons unifamiliales : sections, assemblages, dessin."}
             ],
-            "description": "En poste comme ingénieur stabilité chez CAMBIUM, voici quelques projets réalisé ou en cours."
+            "description": "En poste comme ingénieur stabilité chez CAMBIUM, voici quelques projets réalisés ou en cours."
         },
         {
             "titre": "Projets personnels",
             "photos": [
                 {"path": "Perso1.jpg", "description": "Station de méthanisation: conception pratique avec étude des phénomènes et calcul de rendement."},
                 {"path": "Perso2.jpg", "description": "Conception paramétrique pour structure réciproque en bois rond: création de gabarits pour tronçonneuses."},
-                {"path": "Perso3.jpg", "description": "Exposition -Le bois dans la construction d'aujourd'hui et de demain-: L'exposition explique certains conceptes  élémentaires et puis pose des questions sans réponses pour animer des discussions chez les visiteurs."},
+                {"path": "Perso3.jpg", "description": "Exposition -Le bois dans la construction d'aujourd'hui et de demain- : L'exposition explique certains concepts  élémentaires et puis pose des questions sans réponses pour animer des discussions chez les visiteurs."},
                 {"path": "Cours1.jpg", "description": "Cours de calcul des structures bois :développement de matériel pédagogique et enseignement."},
-                {"path": "Cours2.jpg", "description": "Cours de trait de chrapente : développement de matériel pédagogique et enseignement."},
+                {"path": "Cours2.jpg", "description": "Cours de trait de charpente : développement de matériel pédagogique et enseignement."},
                 {"path": "Perso4.jpg", "description": "Aide à la conception et calcul de dimensionnement pour entreprise de charpente."},
                 {"path": "Perso5.jpg", "description": "Aide à la conception et calcul de dimensionnement pour entreprise de charpente."}
                 
             ],
-            "description": "Les projets suivant ont été mennée en complément de mes études."
+            "description": "Les projets suivant ont été mennées en complément de mes études."
         },
         {
             "titre": "Projets scolaires",
             "photos": [
-                {"path": "UCL1.jpg", "description": "Cours à options : sylviculture et anatomies du bois (+ architecture avec le bois: non illustré)"},
-                {"path": "UCL2.jpg", "description": "Approche créative en architecture : j'ai toujours apprécier amenner un quelque chose en plus que le dessins pour concevoir des projets d'architectures. Exemple : maquette de forme-finding"},
-                {"path": "UCL3.jpg", "description": "Construction d'un Elliodome pour favoriser la compréhension des ombres et offrire un processus de conception architectural intuitif et complément d'analyse avec Ladybug (Grasshopper)"},
+                {"path": "UCL1.jpg", "description": "Cours à options : sylviculture et anatomies du bois (+ architecture avec le bois : non illustré)"},
+                {"path": "UCL2.jpg", "description": "Approche créative en architecture : j'ai toujours apprécié amenner un quelque chose en plus que le dessin pour concevoir des projets d'architectures. Exemple : maquette de forme-finding"},
+                {"path": "UCL3.jpg", "description": "Construction d'un Elliodome pour favoriser la compréhension des ombres et offrir un processus de conception architectural intuitif et complément d'analyse avec Ladybug (Grasshopper)"},
                 {"path": "UCL4.jpg", "description": "Mémoire: disponible sur demande"},
-                {"path": "UCL5.jpg", "description": "Aménagement d'un camion en habitation pour commencer nos études en famille, permettant de vivre à moindre coût."}
+                {"path": "UCL5.jpg", "description": "Aménagement d'un camion en habitation pour commencer mes études en famille, permettant de vivre à moindre coût."}
             ],
-            "description": "Quelques éléments particulier de mon parcours étudiant."
+            "description": "Quelques éléments particuliers de mon parcours étudiant."
         },
 
         {
