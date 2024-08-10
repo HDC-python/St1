@@ -13,6 +13,8 @@ with tab1:
     st.write("")
     st.write("")
     st.title("HUGO DE COSTER")
+    st.write("Mail : hugodecoster.hdc@gmail.com               Tel : 0470/56.39.60 ")
+    st.write("")
     st.header("Profil")
 
     st.markdown(
@@ -175,9 +177,9 @@ with tab2:
         {
             "titre": "Projets scolaires",
             "photos": [
-                {"path": "UCL1.jpg", "description": "Cours à options : sylviculture et anatomies du bois (+ architecture avec le bois : non illustré)"},
-                {"path": "UCL2.jpg", "description": "Approche créative en architecture : j'ai toujours apprécié amenner un quelque chose en plus que le dessin pour concevoir des projets d'architectures. Exemple : maquette de forme-finding"},
-                {"path": "UCL3.jpg", "description": "Construction d'un Elliodome pour favoriser la compréhension des ombres et offrir un processus de conception architectural intuitif et complément d'analyse avec Ladybug (Grasshopper)"},
+                {"path": "UCL1.jpg", "description": "Cours à options : sylviculture et anatomies du bois (+ architecture avec le bois)"},
+                {"path": "UCL2.jpg", "description": "Approche créative et technique pour chaque projet d'architecture : maquette de forme-finding"},
+                {"path": "UCL3.jpg", "description": "Approche créative et technique pour chaque projet d'architecture : Construction d'un Elliodome et analyse numérique"},
                 {"path": "UCL4.jpg", "description": "Mémoire: disponible sur demande"},
                 {"path": "UCL5.jpg", "description": "Aménagement d'un camion en habitation pour commencer mes études en famille, permettant de vivre à moindre coût."}
             ],
@@ -188,7 +190,7 @@ with tab2:
             "titre": "Projets charpente - ferronnerie",
             "photos": [
                 {"path": "Construction1.jpg", "description": "Gestion de chantier et chef d'équipe pour des projets d'extensions ou de maisons unifamiliales."},
-                {"path": "Construction2.jpg", "description": "Réalisation d'une cintreuse, escalier et mains courantes."}
+                {"path": "Construction2.jpg", "description": "Réalisation d'outillage, escalier, mains courantes..."}
             ],
             "description": "Expériences de terrain."
         }
