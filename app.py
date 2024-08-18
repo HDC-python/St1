@@ -19,7 +19,7 @@ with tab1:
 
     st.markdown(
     """
-    Ingénieur civil architecte avec une riche expérience de terrain comme charpentier et ferronnier. J'ai suivi un parcours atypique où mes intérêts privés nourrissent ma carrière. Du dévelloppement informatique à l'invention de structures innovantes en passant par l'enseignement, j'ai transformé chaque passion en compétence professionnelle. Motivé par les défis techniques et l'innovation durable, je suis aujourd’hui enthousiaste à l'idée de pouvoir faire de la recherche.  <br><br>
+    Ingénieur civil architecte avec une expérience en bureaux d'études et une riche expértise sur le terrain en tant que charpentier et ferronnier. J'ai suivi un parcours atypique où mes intérêts privés nourrissent ma carrière. Du dévelloppement informatique à l'invention de structures innovantes en passant par l'enseignement, j'ai transformé chaque passion en compétence professionnelle. Je m'efforce d'apporter une valeur ajoutée à chaque mission en combinant expertise, créativité et engagement indéfectible.  <br><br>
 
     """,
     unsafe_allow_html=True
