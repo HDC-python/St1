@@ -58,8 +58,8 @@ with tab1:
         <u>LANGUES </u> <br>
     </div>
         <br>• Français : Courant 
-        <br>• Anglais : Niveau élémentaire (oral), Lecture scientifique
-        <br>• Néerlandais : Débutant <br><br>
+        <br>• Anglais : Niveau élémentaire, Lecture scientifique
+        <br>• Néerlandais :  Niveau scolaire, en progression avec un focus sur l'acquisition du vocabulaire professionnel <br><br>
 
     <div style="text-align: left; font-weight: bold;">
         <u>INTERETS & PROJETS PERSONNELS </u> <br>
@@ -177,11 +177,11 @@ with tab2:
         {
             "titre": "Projets scolaires",
             "photos": [
-                {"path": "UCL1.jpg", "description": "Cours à options : sylviculture et anatomies du bois (+ architecture avec le bois)"},
+                {"path": "UCL1.jpg", "description": "Cours à options : sylviculture, anatomies du bois, architecture avec le bois et rénovation"},
                 {"path": "UCL2.jpg", "description": "Approche créative et technique pour chaque projet d'architecture : maquette de forme-finding"},
                 {"path": "UCL3.jpg", "description": "Approche créative et technique pour chaque projet d'architecture : Construction d'un Elliodome et analyse numérique"},
                 {"path": "UCL4.jpg", "description": "Mémoire: disponible sur demande"},
-                {"path": "UCL5.jpg", "description": "Aménagement d'un camion en habitation pour commencer mes études en famille, permettant de vivre à moindre coût."}
+                {"path": "UCL5.jpg", "description": "Aménagement d'un camion en habitation pour commencer mes études avec famille et enfants, permettant de vivre à moindre coût."}
             ],
             "description": "Quelques éléments particuliers de mon parcours étudiant."
         },
@@ -190,7 +190,7 @@ with tab2:
             "titre": "Projets charpente - ferronnerie",
             "photos": [
                 {"path": "Construction1.jpg", "description": "Gestion de chantier et chef d'équipe pour des projets d'extensions ou de maisons unifamiliales."},
-                {"path": "Construction2.jpg", "description": "Réalisation d'outillage, escalier, mains courantes..."}
+                {"path": "Construction2.jpg", "description": "Réalisation d'outillages, escaliers, mains courantes...[TIG, MAG, ARC]"}
             ],
             "description": "Expériences de terrain."
         }
