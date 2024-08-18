@@ -178,7 +178,9 @@ with tab2:
             "titre": "Projets scolaires",
             "photos": [
                 {"path": "UCL1.jpg", "description": "Cours à options : sylviculture, anatomies du bois, architecture avec le bois et rénovation"},
+                {"path": "UCL6.jpg", "description": "Structures arch, bois, acier et béton : Ces cours ont suscité un vif intérêt et un investissement personnel important."},
                 {"path": "UCL2.jpg", "description": "Approche créative et technique pour chaque projet d'architecture : maquette de forme-finding"},
+                {"path": "UCL7.jpg", "description": "Edification soutenable et parametrique designe : Ces cours ont suscité un vif intérêt et un investissement personnel important."},
                 {"path": "UCL3.jpg", "description": "Approche créative et technique pour chaque projet d'architecture : Construction d'un Elliodome et analyse numérique"},
                 {"path": "UCL4.jpg", "description": "Mémoire: disponible sur demande"},
                 {"path": "UCL5.jpg", "description": "Aménagement d'un camion en habitation pour commencer mes études avec famille et enfants, permettant de vivre à moindre coût."}
